@@ -1,0 +1,19 @@
+name: com.widebrain.nativecamera
+displayName: Native Camera wbwb
+description: "í\N\x8Cì\x8A¤í\x8A¸."
+repoUrl: 'https://github.com/widebrain/UnityNativeCamera'
+parentRepoUrl: 'https://github.com/yasirkula/UnityNativeCamera'
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - camera
+hunter: widebrain
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:.github/README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1689563371333
